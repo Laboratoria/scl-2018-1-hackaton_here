@@ -26,7 +26,7 @@ En este proyecto el desafío es crear una aplicación web que use las API de HER
 
 * El proyecto tiene una duración de 1 semana, pero 1 día se dejará para presentaciones, por lo que en verdad son solo 4 días de desarrollo. Planifiquen de acuerdo a esto usando metodologías ágiles.
 
-* Realizar proceso multidisciplinar con las siguientes etapas:
+* Realizar proceso multidisciplinario con las siguientes etapas:
     1. Definición del proyecto
     2. Definición de funcionalidades y wireframes
     3. Desarrollo de funcionalidades y maqueta visual, en base a guía de estilos
@@ -70,7 +70,7 @@ En este proyecto el desafío es crear una aplicación web que use las API de HER
 
 * Las UX y FE entienden en conjunto el reto en el que van a trabajar, se organizan y arman sus primeros bocetos.
 * Con los primeros bocetos/ideas, las FE pasan a crear su ambiente de desarrollo y a crear componentes atómicos que luego les sea fácil personalizar con CSS y utilizar para crear interfaces más complejas. Además, las FE empiezan también a trabajar en la lógica de la aplicación por ej: conexión con APIs, set up de Firebase, etc. Mientras tanto, las UX crean una guía de estilos, los flujos de usuarios, hacen un prototipo más completo y lo testean.
-* Las UX le pasan el prototipo testeado a la FE para que empiecen a personalizar los componentes y a ponerlos en conjunto.
+* Las UX comparten el prototipo testeado, para que el equipo empiece a personalizar los componentes y a ponerlos en conjunto.
 * Las UX hacen QA y testing con los releases que vayan haciendo las FE.
 
 ## ¿Qué es la Feria de demos?
