@@ -22,7 +22,7 @@ En este proyecto el desafío es crear una aplicación web que use las API de HER
 
 ## Las reglas 
 
-* El proyecto es de equipos de 4 personas, compuestos en lo posible (pero no es obligatorio) entre 3 front-end y 1 UX.
+* El proyecto es de equipos de 4 personas, compuestos entre 3 front-end y 1 UX.
 
 * El proyecto tiene una duración de 1 semana, pero 1 día se dejará para presentaciones, por lo que en verdad son solo 4 días de desarrollo. Planifiquen de acuerdo a esto usando metodologías ágiles.
 
